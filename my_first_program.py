@@ -1,0 +1,6 @@
+name = input("Enter the name")
+address = input("Enter the address")
+phone_number = input("Enter the phone number")
+print("Name:",name)
+print("Address:",address)
+print("Phone Number:",phone_number)
